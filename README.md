@@ -7,7 +7,7 @@
 </h1>
 
 <h5 align="center">
-    <code><a href="https://contra.com/f3_licity_ppo8isoj" title="Contra Profile"><img width="22" src="images/contra.png"> DataCamp</a></code>
+    <code><a href="https://contra.com/f3_licity_ppo8isoj" title="Contra Profile"><img width="22" src="images/contra.jpeg"> Contra</a></code>
    <code><a href="https://www.datacamp.com/portfolio/saaadsuleman" title="DataCamp Profile"><img width="22" src="images/Datacamp.png"> DataCamp</a></code>
   <code><a href="https://www.linkedin.com/in/saad-suleman-698618223/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.hackerrank.com/Saaddpopcorn23" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
