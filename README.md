@@ -13,7 +13,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Saad Suleman, Machine Learning Engineer & Computer Scientist & Software Developer from Pakistan 🇵🇰
+  Hi, I'm Saad Suleman, Tech Enthusiast & Computer Scientist from Pakistan 🇵🇰🟩
   <br>
   <br>
   🔬 I'm currently studying for my graduate degree at COMSATS University, Department of Computer Engineering
