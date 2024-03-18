@@ -89,7 +89,7 @@
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/SAADSULEMAN053/AfkBot" title="AfkBot"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SAADSULEMAN053&repo=AfkBot&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/SAADSULEMAN053/Calculator-JavaFx" title="Calculator-JavaFx"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SAADSULEMAN053&repo=Calculator-JavaFx&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="left">
