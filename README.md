@@ -18,7 +18,7 @@
   <br>
   🔬 I'm currently studying for my graduate degree at COMSATS University, Department of Computer Science
   <br>
-  💻 I love writing code and learn anythings about it
+  💻 I am passionate about coding and how it works
   <br>
   💻 UI UX Designer and Frontend Design enthusiast
   <br>
