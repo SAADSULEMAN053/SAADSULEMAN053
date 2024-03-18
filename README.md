@@ -92,7 +92,7 @@
   <a align="left" href="https://github.com/SAADSULEMAN053/AfkBot" title="AfkBot"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SAADSULEMAN053&repo=AfkBot&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
-<div width="1000px" align="center">
+<div width="100%" align="left">
   <a align="left" href="https://github.com/MuhammedZohaib/HitFit-Gym-App" title="HitFit-Gym-App"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammedZohaib&repo=HitFit-Gym-App&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
