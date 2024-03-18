@@ -20,7 +20,7 @@
   <br>
   💻 I am passionate about coding and how it works
   <br>
-  💻 UI UX Designer and Frontend Design enthusiast
+  ⚡ UI UX Designer and Frontend Design enthusiast
   <br>
   📚 I’m currently learning how to build Websites using various frameworks
   <br>
