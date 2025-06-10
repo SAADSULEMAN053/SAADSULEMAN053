@@ -17,9 +17,6 @@
 <p align="center">
   Hi, I'm Saad Suleman, Tech Enthusiast & Computer Scientist from Pakistan 🇵🇰🟩
   <br>
-  <br>
-  🔬 I'm currently studying for my graduate degree at COMSATS University, Department of Computer Science
-  <br>
   💻 I am passionate about coding and how it works
   <br>
   ⚡ UI UX and Graphic Designer
