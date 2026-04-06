@@ -79,6 +79,7 @@ React • Next.js • TypeScript • JavaScript • HTML • CSS • Tailwind CS
 
 <p>
 
+<img src="https://skillicons.dev/icons?i=cursor,openai,vercel,claude"/>
 <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/cursor.png" height="40"/>
 <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/openai.png" height="40"/>
 <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" height="40"/>
