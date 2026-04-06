@@ -62,7 +62,7 @@ Currently interested in:
 <img src="https://skillicons.dev/icons?i=figma,ai,ps"/>
 </p>
 
-Figma • Figma Make • FigJam • Adobe Illustrator • Adobe Photoshop  
+Figma • Adobe Illustrator • Adobe Photoshop  
 
 ---
 
@@ -76,7 +76,7 @@ React • Next.js • TypeScript • JavaScript • HTML • CSS • Tailwind CS
 ---
 
 ### 🤖 AI Assisted Development
-Cursor IDE • Integrated Codex • v0.dev (Vercel AI UI generation)
+Cursor IDE • Chat-GPT Codex • v0.dev (Vercel AI UI generation)
 
 ---
 
