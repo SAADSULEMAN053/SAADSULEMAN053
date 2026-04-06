@@ -79,36 +79,12 @@ Currently interested in:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SAADSULEMAN053&theme=react&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SAADSULEMAN053&show_icons=true&theme=react&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAADSULEMAN053&layout=compact&theme=react&hide_border=true"/>
-</p>
-
----
-
 ## 💡 Current Focus
 
 • Building modern SaaS interfaces  
 • Improving UI consistency and scalability  
 • Creating reusable component systems  
 • Expanding backend integration skills  
-
----
-
-## 📫 Contact
-
-Portfolio: https://saadsuleman.site  
-Email: saadsuleman007@gmail.com  
-Discord: saad#0000 (via link above)
 
 ---
 
