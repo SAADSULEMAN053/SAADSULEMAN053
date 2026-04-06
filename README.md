@@ -99,27 +99,8 @@ Node.js • Express • PostgreSQL • Supabase
 
 ---
 
-### 🚀 Deployment & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=vercel"/>
-</p>
-
-Vercel • Git • GitHub • VS Code  
-
----
-
 ### 🎬 Motion & Interaction
 Framer Motion • Framer (basic experience)
-
----
-
-## 💡 Workflow
-
-Design → Wireframe → Prototype → AI-assisted build → Refine UI → Deploy
-
-Tools used across workflow:
-
-Figma → FigJam → Cursor → v0.dev → Next.js → Vercel
 
 ---
 
