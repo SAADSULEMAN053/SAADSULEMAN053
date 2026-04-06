@@ -99,11 +99,6 @@ Node.js • Express • PostgreSQL • Supabase
 
 ---
 
-### 🎬 Motion & Interaction
-Framer Motion • Framer (basic experience)
-
----
-
 ## 🎯 Current Focus
 
 • Building modern SaaS interfaces  
