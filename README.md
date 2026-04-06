@@ -43,7 +43,7 @@ Focused on usability, performance, and scalable frontend architecture.
 • Product Designer focused on usability and clarity  
 • Frontend developer specializing in React, Next.js and TypeScript  
 • Experience building SaaS apps and interactive UI components  
-• 3+ years freelancing experience working with global clients  
+• 5+ years freelancing experience working with global clients  
 • Passionate about intuitive UX and scalable frontend architecture  
 
 Currently interested in:
