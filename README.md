@@ -1,106 +1,114 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SAADSULEMAN053.SAADSULEMAN053">
 
-<h1 align="center">
-  Hi 👋, I'm Saad Suleman
-</h1>
+<h1 align="center">Hi 👋, I'm Saad Suleman</h1>
 
 <h3 align="center">
 Product Designer • Frontend Developer • SaaS Builder
 </h3>
 
 <p align="center">
-I design and build clean, user-focused web applications using modern technologies.
+I design clean, user-focused interfaces and build modern web applications.
 <br/>
-Focused on UI/UX, scalable frontend architecture, and real-world product development.
+Focused on usability, performance, and scalable frontend architecture.
 </p>
 
+---
+
+## 🌐 Connect with me
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/saad-suleman-698618223/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge"/>
-  </a>
-  <a href="https://contra.com/f3_licity_ppo8isoj">
-    <img src="https://img.shields.io/badge/Contra-Portfolio-black?logo=web&style=for-the-badge"/>
-  </a>
-  <a href="https://www.datacamp.com/portfolio/saaadsuleman">
-    <img src="https://img.shields.io/badge/DataCamp-Portfolio-03EF62?logo=datacamp&style=for-the-badge"/>
-  </a>
+
+<a href="https://saadsuleman.site">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/saad-suleman-698618223/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://discord.com/users/547081299928678435">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+<a href="mailto:saadsuleman007@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
 ## 🚀 About Me
 
-• Product Designer with strong focus on usability and clarity  
+• Product Designer focused on usability and clarity  
 • Frontend developer specializing in React, Next.js and TypeScript  
 • Experience building SaaS apps and interactive UI components  
-• 3+ years freelancing experience on Upwork and other platforms  
-• Passionate about creating polished interfaces and scalable products  
+• 3+ years freelancing experience  
+• Passionate about clean UI and smooth UX  
 
 Currently interested in:
-- Remote Product Designer roles
-- Frontend / React roles
-- SaaS product development
-- UI systems & component libraries
+
+• Remote Product Designer roles  
+• Frontend / React roles  
+• SaaS product development  
+• UI systems & component libraries  
 
 ---
 
 ## 🧰 Tech Stack
 
-### Design
-Figma • FigJam • UX Research • Wireframing • Prototyping • Design Systems
+### 🎨 Design
+<p>
+<img src="https://skillicons.dev/icons?i=figma"/>
+</p>
 
-### Frontend
-React • Next.js • TypeScript • JavaScript • HTML • CSS • Tailwind CSS
+### 💻 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind"/>
+</p>
 
-### Backend / Database
-Node.js • Express • PostgreSQL • Supabase • REST APIs
+### ⚙️ Backend / Database
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,supabase"/>
+</p>
 
-### Tools
-Git • GitHub • VS Code • Framer Motion • npm
-
----
-
-## 📌 Featured Skills
-
-• UI Design with real-world usability principles  
-• Responsive and accessible interfaces  
-• API integration and frontend architecture  
-• Component-driven development  
-• Animation using Framer Motion  
-• Clean and maintainable code  
+### 🛠 Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm"/>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAADSULEMAN053&theme=react&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SAADSULEMAN053&theme=react&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SAADSULEMAN053&show_icons=true&theme=react&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SAADSULEMAN053&show_icons=true&theme=react&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAADSULEMAN053&layout=compact&theme=react&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAADSULEMAN053&layout=compact&theme=react&hide_border=true"/>
 </p>
 
 ---
 
-## 💡 What I’m working on
+## 💡 Current Focus
 
 • Building modern SaaS interfaces  
-• Improving UI consistency and component reusability  
-• Creating smooth interactive user experiences  
+• Improving UI consistency and scalability  
+• Creating reusable component systems  
 • Expanding backend integration skills  
 
 ---
 
 ## 📫 Contact
 
+Portfolio: https://saadsuleman.site  
 Email: saadsuleman007@gmail.com  
-
-Portfolio links available on LinkedIn / Contra.
+Discord: saad#0000 (via link above)
 
 ---
 
