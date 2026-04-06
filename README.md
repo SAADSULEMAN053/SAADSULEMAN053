@@ -82,11 +82,11 @@ React • Next.js • TypeScript • JavaScript • HTML • CSS • Tailwind CS
 <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/cursor.png" height="40"/>
 <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/openai.png" height="40"/>
 <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" height="40"/>
-<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/framer.png" height="40"/>
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude.png" height="40"/>
 
 </p>
 
-Cursor IDE • OpenAI Codex • v0.dev • Framer AI
+Cursor IDE • OpenAI Codex • v0.dev • Claude
 
 ---
 
